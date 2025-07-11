@@ -19,5 +19,7 @@
   - 🛒 Estrutura simples de site para o **Mercado Livre** com HTML  
   - 🧠 Site com **índice clicável** sobre meus conhecimentos iniciais  
   - 🎨 **Versões atualizadas** com melhorias em HTML e CSS (em andamento)
- 
+
+### 📬 Contato 
+  📧 [grazieleltorres@gmail.com](mailto:grazieleltorres@gmail.com)  
   🔗 [LinkedIn](www.linkedin.com/in/graziele-lustosa-torres-a5a3351a4)
