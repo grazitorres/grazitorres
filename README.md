@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**grazitorres/grazitorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou a Graziele Torres 👩🏻‍💻
 
-Here are some ideas to get you started:
+🌱 Em transição de carreira para a área de **Tecnologia**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na PUC Minas  
+💻 Atualmente aprendendo: **HTML, CSS, JavaScript e Git/GitHub**  
+📚 Participando do Bootcamp Santander 2025 pela DIO  
+🎯 Objetivo: atuar como desenvolvedora front-end ou full stack no futuro próximo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projetos em destaque
+
+- 🧩 **Studing** – Aplicação Web com gamificação para estudos, desenvolvida com HTML, CSS e JavaScript (projeto da PUC)
+- 🧪 **Projetos Iniciais** – Primeiros projetos com HTML e CSS, desenvolvidos durante minha introdução ao Desenvolvimento Web:
+  - 📄 Criação de **tabelas e parágrafos** com HTML  
+  - 🛍️ Simulação de página da **Magazine Luiza** com imagens e cores básicas
+  - 💻 Simulação de página do **Discord** com imagens e cores básicas
+  - 🛒 Estrutura simples de site para o **Mercado Livre** com HTML  
+  - 🧠 Site com **índice clicável** sobre meus conhecimentos iniciais  
+  - 🎨 **Versões atualizadas** com melhorias em HTML e CSS (em andamento)
