@@ -21,5 +21,6 @@
   - 🎨 **Versões atualizadas** com melhorias em HTML e CSS (em andamento)
 
 ### 📬 Contato 
-  📧 [grazieleltorres@gmail.com](mailto:grazieleltorres@gmail.com)  
-  🔗 [LinkedIn](www.linkedin.com/in/graziele-lustosa-torres-a5a3351a4)
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:grazieleltorres@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graziele-lustosa-torres-a5a3351a4)
+
